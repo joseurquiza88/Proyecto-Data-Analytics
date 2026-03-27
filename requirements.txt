@@ -11,3 +11,5 @@ rioxarray
 xarray
 statsmodels
 seaborn
+plotly
+kagglehub
